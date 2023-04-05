@@ -26,7 +26,7 @@ def get_rand_color(): # actually I don't use this function :)
 
 def generate_df(max):
     """
-    Generates scratch of df (like in the TED video), then modifided by het 
+    Generates scratch of df (like in the TED video), then modifided by other funcs
     """
     i = 3
     _ = pd.DataFrame([[1, 2, 3], [2, 3, 6]])
